@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    
+
+}
+.carousel img{
+    height: 500px;
+}
+.carousel-prev{
+    width: 50px;
+
+}
+h1{
+    font-size: 50px;
+    padding-top: 50px;
+}
+h1{
+    font-size: 50px;
+}
+.carousel{
+    display: flex;
+    justify-content: space-around;
+}
+button{
+    background-color: rgba(155, 30, 147, 0.921);
+}
+button{
+    background-color: rgba(155, 30, 147, 0.921);
+}
+h3{
+    margin-left: 150px;
+    margin-top: 100px;
+    color: rgb(121, 8, 130);
+}
+   
+p{
+    margin-left: 150px;
+    
+}
+button{
+    margin-left: 150px;
+    
+}
+h5{
+    color: rgb(218, 28, 183);
+}
+
+
+
